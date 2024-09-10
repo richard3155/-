@@ -1,0 +1,9 @@
+body{
+    background-color: green;
+    background-color: #bbff00;
+    /* rgb(255,255,255)
+    rgba(255,255,255,0.5) */
+}
+ul li{
+    display: inline;
+}
